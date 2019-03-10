@@ -38,5 +38,3 @@ class Algorithm1
     point
   end
 end
-
-Algorithm1.new()

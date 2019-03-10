@@ -1,3 +1,5 @@
 require_relative 'algorithm1.rb'
 
-Algorithm1.new().run()
+# algorithm1
+algo = Algorithm1.new()
+algo.run
